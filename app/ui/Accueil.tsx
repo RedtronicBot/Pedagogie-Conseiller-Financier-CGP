@@ -8,7 +8,7 @@ const Accueil = () => {
 					<p className="relative uppercase flex items-center gap-4 text-xl font-bold text-or my-8 before:content-[''] before:block before:w-[38px] before:h-px before:bg-or">
 						Conseiller en gestion de patrimoine - Cravent - Yvelines (78)
 					</p>
-					<h1 className="text-4xl font-bold text-creme">Phrase d'accroche</h1>
+					<h1 className="text-4xl font-bold text-creme">Vos projets de vie méritent une stratégie patrimoniale</h1>
 					<div className="flex gap-4">
 						<a
 							href="mailto:gregoirebrunet1971@gmail.com"
@@ -28,21 +28,18 @@ const Accueil = () => {
 					<div className="flex w-full my-5">
 						<div className="flex flex-col p-2 md:p-5 border-r border-gris">
 							<b className="font-bold text-creme text-xl">
-								25 <em className="text-or font-bold">ans</em>
+								11 <em className="text-or font-bold">ans</em>
 							</b>
 							<span className="uppercase font-semibold text-gris">d'expérience</span>
 						</div>
 						<div className="flex flex-col p-2 md:p-5 border-r border-gris">
 							<b className="font-bold text-creme text-xl">
-								chiffre <em className="text-or font-bold"></em>
+								220 <em className="text-or font-bold"></em>
 							</b>
-							<span className="uppercase font-semibold text-gris">exemple</span>
+							<span className="uppercase font-semibold text-gris">client</span>
 						</div>
-						<div className="flex flex-col p-2 md:p-5">
-							<b className="font-bold text-creme text-xl">
-								chiffre <em className="text-or font-bold"></em>
-							</b>
-							<span className="uppercase font-semibold text-gris">exemple</span>
+						<div className="flex flex-col justify-center p-2 md:p-5">
+							<b className="font-bold text-creme text-xl"> Formateur de CGP </b>
 						</div>
 					</div>
 				</div>
