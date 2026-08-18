@@ -36,7 +36,7 @@ const Accueil = () => {
 							<b className="font-bold text-creme text-xl">
 								220 <em className="text-or font-bold"></em>
 							</b>
-							<span className="uppercase font-semibold text-gris">client</span>
+							<span className="uppercase font-semibold text-gris">clients</span>
 						</div>
 						<div className="flex flex-col justify-center p-2 md:p-5">
 							<b className="font-bold text-creme text-xl"> Formateur de CGP </b>
@@ -50,6 +50,7 @@ const Accueil = () => {
 							alt="Grégoire Brunet, conseiller en gestion de patrimoine à Caravent, Yvelines(78)"
 							width={1920}
 							height={1537}
+							className="hidden"
 						/>
 						<div className="flex bg-creme p-2 font-semibold gap-1 justify-center">
 							<p className="text-slate-800">
